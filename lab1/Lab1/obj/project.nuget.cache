@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sERzUWRVx10pC5Uyv+xn3piKL/61RgFtaqEXqZdGjWgL+dTZSr/2sjQiMeOgE4NbysMCfCU7u/LcZcu6eejxXg==",
+  "success": true,
+  "projectFilePath": "E:\\MEGASync\\MEGAsync\\Programy\\iot_jakub_grzaslewicz\\Lab1\\Lab1\\Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakub\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

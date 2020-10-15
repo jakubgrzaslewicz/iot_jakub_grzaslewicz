@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "37K+4aMaxT3Nf8O0C1BjURuBA5vzzrUJ5Wg6y0iBv5hMQ8vPWpCuKKEqolMdZ/5ebS8vDCpIKegxFZAeMBkFbQ==",
+  "success": true,
+  "projectFilePath": "E:\\MEGASync\\MEGAsync\\Programy\\iot_jakub_grzaslewicz\\Lab1\\Lab1.iOS\\Lab1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
