@@ -1,0 +1,14 @@
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\bin\Debug\netstandard2.0\Lab1.deps.json
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\bin\Debug\netstandard2.0\Lab1.dll
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\bin\Debug\netstandard2.0\ref\Lab1.dll
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\bin\Debug\netstandard2.0\Lab1.pdb
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\obj\Debug\netstandard2.0\Lab1.csprojAssemblyReference.cache
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\obj\Debug\netstandard2.0\Lab1.AssemblyInfoInputs.cache
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\obj\Debug\netstandard2.0\Lab1.AssemblyInfo.cs
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\obj\Debug\netstandard2.0\Lab1.csproj.CoreCompileInputs.cache
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\obj\Debug\netstandard2.0\Lab1.dll
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\obj\Debug\netstandard2.0\ref\Lab1.dll
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab1\Lab1\obj\Debug\netstandard2.0\Lab1.pdb
