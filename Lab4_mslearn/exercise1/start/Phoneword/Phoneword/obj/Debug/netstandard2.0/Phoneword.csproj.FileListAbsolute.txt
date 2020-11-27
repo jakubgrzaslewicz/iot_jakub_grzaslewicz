@@ -1,0 +1,11 @@
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab-mslearn-xamarin-forms\exercise1\start\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab-mslearn-xamarin-forms\exercise1\start\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab-mslearn-xamarin-forms\exercise1\start\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab-mslearn-xamarin-forms\exercise1\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab-mslearn-xamarin-forms\exercise1\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab-mslearn-xamarin-forms\exercise1\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab-mslearn-xamarin-forms\exercise1\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab-mslearn-xamarin-forms\exercise1\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab-mslearn-xamarin-forms\exercise1\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab-mslearn-xamarin-forms\exercise1\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+E:\MEGASync\MEGAsync\Programy\iot_jakub_grzaslewicz\Lab-mslearn-xamarin-forms\exercise1\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb

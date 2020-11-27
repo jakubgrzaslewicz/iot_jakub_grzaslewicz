@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymggJ0YJT65bMYvZN106YQdfQ/li21arEBqOsi0N1GLpi5VbpTKIYf/80qP6zV3XkWuLk4NwK3egI3DqlqeDEQ==",
+  "success": true,
+  "projectFilePath": "E:\\MEGASync\\MEGAsync\\Programy\\iot_jakub_grzaslewicz\\Lab-mslearn-xamarin-forms\\exercise1\\start\\Phoneword\\Phoneword.iOS\\Phoneword.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakub\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\xamarin.essentials\\1.0.1\\xamarin.essentials.1.0.1.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\xamarin.forms\\3.4.0.1029999\\xamarin.forms.3.4.0.1029999.nupkg.sha512"
+  ],
+  "logs": []
+}
